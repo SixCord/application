@@ -1,5 +1,5 @@
 # SixCord - Desktop application
-> Information: This is still under development, so SixCord application does not work yet.
+> Information: This is still under development, this means SixCord application does not work yet.
 
 ## What's SixCord Desktop app?
 We still don't know how useful we will be to our application, we just wanted to try something new for all of our users. But even so, we will launch it soon for all users with very special and useful functions.
